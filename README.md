@@ -17,7 +17,7 @@
 
 ## 关键图表
 ![
-Feature Importance](results/手机价格图.png
+Feature Importance](手机价格图.png
 ) --
 
 ## 运行方式
