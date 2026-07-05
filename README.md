@@ -16,7 +16,9 @@
 *   **业务洞察**：识别出高端机与低端机在硬件配置上的关键阈值，为产品定价策略提供数据支持。
 
 ## 关键图表
-<!-- 示例：![Feature Importance](results/feature_importance.png) -->
+![
+Feature Importance](results/手机价格图.png
+) --
 
 ## 运行方式
 由于本项目主要展示分析过程，推荐直接在浏览器中查看：
