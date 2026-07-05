@@ -24,7 +24,7 @@
 1.  **在线预览**（推荐）：
     点击仓库中的 `mobile_price_analysis.ipynb` 文件，GitHub 会自动渲染展示。
 2.  **本地运行**：
-    bash
+    ```bash
     # 安装依赖
     pip install pandas numpy scikit-learn matplotlib seaborn jupyter
     # 启动 Notebook
